@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to PAINoFF
 
-You can use the [editor on GitHub](https://github.com/Lennox-Brain/painoff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This repository was created to serve as a guide at the same time a reference of some off the interesting cheats, snippets, infos i usually use at one point in time during my software journey.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
